@@ -8,6 +8,8 @@ Deployed here: [Live URL](https://pure-eyrie-22820.herokuapp.com/)
 
 An Augmented Reality Language translation app. Users use their computer camera, and the app identifies the objects in the frame. The user can select any of the languages available with Google Translate. The application shows the English word and then the language translation beside it for all recognized objects. For example, if a user selects "French" and points their camera at a cup, the text that will appear is “cup” and “Coupe”. This could be used in situations where a user needs to know a word for an object in a room/wants to learn the object’s name in a different language.
 
+### Live API 
+ -  to translate words to another language: [Translation API](https://translate-ar.herokuapp.com/translate?translateTo=russian&textToTranslate=hi+friend)
 ### Goals
 Base Goal: An application that recognizes objects in a room and translates the names of them from a photo. Translates only to common Roman Languages: French, Spanish, Italian etc.
 
